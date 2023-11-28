@@ -1,0 +1,1 @@
+將這兩個檔案放至以下路徑 C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\lua
